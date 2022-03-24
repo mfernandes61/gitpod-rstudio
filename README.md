@@ -1,7 +1,4 @@
-# econ-rstudio-gitpod
-
-R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
-
+# gitpod-rstudio
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Goblin80/econ-rstudio-gitpod)
 
