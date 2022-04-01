@@ -5,4 +5,4 @@ ports:
     onOpen: open-browser
 tasks:
   - init: echo "R_LIBS_USER=/home/gitpod/libs" >> /home/gitpod/.Renviron
-  - command: /usr/lib/rstudio-server/bin/rstudio-server --server-user start
+  - command: /usr/lib/rstudio-server/bin/rstudio-server start
