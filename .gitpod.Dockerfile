@@ -1,4 +1,4 @@
-FROM rocker/verse:4.0
+FROM rocker/verse:3.6.3
 RUN R -e 'install.packages("remotes")'
 RUN R -e 'remotes::install_cran("dockerfiler")'
 RUN R -e 'remotes::install_cran("devtools")'
